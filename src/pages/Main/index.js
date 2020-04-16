@@ -49,7 +49,7 @@ export default function Main() {
         <CommentArea>
           <img src={icon3} alt="Pepeu Gomes" />
           <Comment>
-            <h1>Lívia Andrade - Toma jeito muleke!</h1>
+            <h1>Lívia Andrade - Olá Gabriel, como vai amigo? saudades!</h1>
           </Comment>
         </CommentArea>
       </PostArea>
